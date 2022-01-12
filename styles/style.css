@@ -187,7 +187,15 @@ hr {
 	.course-banner {
 		display: flex;
 		justify-content: center;
+
 	}
+
+
+	.course .course-banner img {
+		width: 182px;
+		height: 100px;
+	}
+
 
 }
 
@@ -233,5 +241,7 @@ hr {
 		display: flex;
 		justify-content: center;
 	}
+
+
 
 }
